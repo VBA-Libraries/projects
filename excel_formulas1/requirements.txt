@@ -1,0 +1,4 @@
+Extract information from 1 spreadsheet and display it in another format.
+Needs to be completed ASAP - next 12 hours - should take less than an hour to complete.
+
+Take from "Emily load type" sheet and input it into "MB load type" sheet. All "sales codes" are the primary codes that will be the "sku" in the "MB load type" file, the component code dimensions and weights need to then be added on the same line in the new sheet "MB load type"
