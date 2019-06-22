@@ -1,0 +1,6 @@
+Function open_email(path) As Object
+
+    Set outlook = GetObject(, "Outlook.Application")
+    Set open_email = outlook.CreateItemFromTemplate(path)
+
+End Function
